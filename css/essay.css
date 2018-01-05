@@ -508,3 +508,21 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/* Home Button */
+
+#homelogo {
+    margin-left: 42.5em;
+    width: 5%;
+}
+
+#scale a img {
+    -webkit-transition: scale 0.3s ease-in-out;
+    transition: scale 0.3s ease-in-out;
+}
+
+#scale a:hover img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
