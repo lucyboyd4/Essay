@@ -390,46 +390,46 @@ table {
 
 
 #rightside {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 10em;
-    margin-right: 1em
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: 1.4em;
+    margin-right: -1.8em
 }
 
 #rightside2 {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 7em;
-    margin-right: -1.6em
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: 1em;
+    margin-right: 1.1em
 }
 
 #rightside3 {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 10em;
-    margin-right: 1em
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: 0em;
+    margin-right: -1em
 }
 
-/*#rightside4 {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 10em;
+#rightside4 {
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: 7em;
     margin-right: 1em;
-}*/
+}
 
 #rightside5 {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 10em;
-    margin-right: 1em
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: -1em;
+    margin-right: -2.4em
 }
 
-/*#rightside6 {
-    float: right;
-    transform: rotate(90deg);
-    margin-top: 10em;
-    margin-right: 1em
-}*/
+#rightside6 {
+    /*float: right;
+    transform: rotate(90deg);*/
+    margin-top: 9.5em;
+    margin-right: 4.2em
+}
 
 #header {
     margin-top: 7em;
